@@ -1,0 +1,16 @@
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\bin\Debug\netcoreapp3.1\pUŁapka.exe
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\bin\Debug\netcoreapp3.1\pUŁapka.deps.json
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\bin\Debug\netcoreapp3.1\pUŁapka.runtimeconfig.json
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\bin\Debug\netcoreapp3.1\pUŁapka.runtimeconfig.dev.json
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\bin\Debug\netcoreapp3.1\pUŁapka.dll
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\bin\Debug\netcoreapp3.1\pUŁapka.pdb
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.csprojAssemblyReference.cache
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.Form1.resources
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.Properties.Resources.resources
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.csproj.GenerateResource.cache
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.AssemblyInfoInputs.cache
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.AssemblyInfo.cs
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.csproj.CoreCompileInputs.cache
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.dll
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.pdb
+C:\Users\oliwk\Desktop\pUŁapka\pUŁapka\obj\Debug\netcoreapp3.1\pUŁapka.genruntimeconfig.cache
